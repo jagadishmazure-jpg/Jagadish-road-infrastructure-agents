@@ -1,6 +1,5 @@
 import time
 
-import pytest
 
 from road_agents.gates import Approval, ClosureGate, parse_consent
 
