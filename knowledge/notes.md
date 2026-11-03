@@ -1,8 +1,7 @@
 # Knowledge notes — road infrastructure agents
 
-Distilled design notes, written in original prose. All examples use the
-fictional Mossmere Highways operator and the synthetic demo network
-(6 junctions, 8 segments). No source text is copied here.
+Design notes. All examples use the fictional Mossmere Highways operator
+and the synthetic demo network (6 junctions, 8 segments).
 
 ## The network model
 
